@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl: using an uninitialized variable in an arithmetic operation.  The script 'bug.pl' attempts to add 5 to an undefined variable, resulting in unexpected behavior. The solution, 'bugSolution.pl', shows how to properly initialize variables to prevent this issue.
